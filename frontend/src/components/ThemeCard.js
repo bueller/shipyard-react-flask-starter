@@ -17,7 +17,7 @@ function ThemeCard(props) {
 
 	return (
 		<Card className={props.classes.card}>
-			<h2 className={props.classes.cardHeader}>Update appearance</h2>
+			<h2 className={props.classes.cardHeader}>Natalie Demo Example of Changing Code</h2>
 			<p>
 				Modify the appearance of your app by using Material-UI's built-in
 				themes, or by creating a custom theme.
